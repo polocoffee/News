@@ -256,8 +256,7 @@ com.example.newsapp
 
 | Home Screen (Dark Theme)                          | Detail Screen (Dark Theme)                            |
 | ------------------------------------------------- | ----------------------------------------------------- |
-| <img width="1280" height="2856" alt="Screenshot_20260911_131452" src="https://github.com/user-attachments/assets/342ded84-21de-4e8f-885c-c7ccfcbc0eb4" />
-| <img width="1280" height="2856" alt="Screenshot_20260911_131509" src="https://github.com/user-attachments/assets/dea275fa-074e-4277-8cbf-2aeb4f0e2380" />|
+| <img width="1280" height="2856" alt="Screenshot_20260911_131452" src="https://github.com/user-attachments/assets/342ded84-21de-4e8f-885c-c7ccfcbc0eb4" /> | <img width="1280" height="2856" alt="Screenshot_20260911_131509" src="https://github.com/user-attachments/assets/dea275fa-074e-4277-8cbf-2aeb4f0e2380" />|
 
 </div>
 
